@@ -1,6 +1,6 @@
 ## Hi there 👋
 Data Analyst Jr. con experiencia en asesorimiento de seguros y apoyos financieros. Mi formacion como Data Analyst me permite tener un enfoque de visualización analitica generando impacto real por la trasformacion de decisiones estrategicas y con el fin de obtener resultados para crear soluciones basadas en evidencias.
-Me apaciona el mundo de la IT aplicando conocimientos y convirtiendolos en mejoras operativas para impulsar la eficiencia empresarial y la resolucion de problemas. Mi enfoque analitico, ligerazgo y trabajo en equipo, me caracteriza por desarrollar la resolucion de problemas teniendo la oportunidad de trabajar en equipo con el fin de desarrollar eficientemente y ganarantizado la correcta ejecucion de los proceosos administrativos y legales.
+Me apaciona el mundo de la IT aplicando conocimientos y convirtiendolos en mejoras operativas para impulsar la eficiencia empresarial y la resolucion de problemas. Mi enfoque analitico, ligerazgo y trabajo en equipo me caracterizan al desarrollar la resolucion de problemas teniendo obteniendo la oportunidad de trabajar en equipo con el fin de desarrollar eficientemente y ganarantizado la correcta ejecucion de los procesos administrativos y legales.
 <!--
 **lorenabrfigueroa/lorenabrfigueroa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
